@@ -7,7 +7,7 @@ O Wellington Conceição ("nós", "nosso") desenvolveu o aplicativo Candidato360
 
 **Última atualização:** [07 de Novembro de 2025
 
-O Wellington da Conceição ("nós", "nosso") desenvolveu o aplicativo [NOME DO SEU APP] (o "Serviço") como um Serviço gratuito para oferecer mais transparência nas eleições no Brasil.
+O Wellington da Conceição ("nós", "nosso") desenvolveu o aplicativo Candidato360 (o "Serviço") como um Serviço gratuito para oferecer mais transparência nas eleições no Brasil.
 
 Esta Política de Privacidade tem como objetivo informar os usuários ("você", "seu") sobre nossas políticas de coleta, uso e divulgação de Dados Pessoais quando você usa o nosso Serviço.
 
