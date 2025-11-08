@@ -24,7 +24,7 @@ Nosso objetivo é empoderar o cidadão, fornecendo acesso fácil a:
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)]([https://youtube.com/seu-canal](https://www.youtube.com/@Candidato360))
 
 ## 🤝 Contribuição
-Se você deseja contribuir, por favor, leia o nosso arquivo `CONTRIBUTING.md`.
+Se você deseja contribuir, por favor, leia o nosso arquivo **[CONTRIBUTING.md](./CONTRIBUTING.md)**.
 
 ## ⚖️ Licença
 Este projeto está licenciado sob a Licença [Ex: MIT / GPL]. Veja o arquivo `LICENSE` para mais detalhes.
