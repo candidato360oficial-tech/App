@@ -69,9 +69,6 @@ Esta Política de Privacidade tem como objetivo informar os usuários ("você", 
 
 Ao usar o nosso Serviço, você concorda com a coleta e uso de informações de acordo com esta Política.
 
-## 6. Redes Sociais
-
-
-## 7. Origem de dados
+## 6. Origem de dados
 
 Fontes de dados são extraídos somente dos canais oficiais (dados abertos TSE e Prefeituras)
