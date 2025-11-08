@@ -19,7 +19,7 @@ Para fornecer e melhorar o Serviço, podemos coletar os seguintes tipos de infor
 
 | Tipo de Dado | Finalidade da Coleta (Base Legal - LGPD) |
 | :--- | :--- |
-| **Dados de Cadastro** (E-mail, nome de usuário, senha criptografada, Município e Estado) | Para criar e gerenciar sua conta de acesso e identificação no app. (Base Legal: Execução de contrato/consentimento) |
+| **Dados de Cadastro** (E-mail, nome de usuário, senha criptografada e localização) | Para criar e gerenciar sua conta de acesso e identificação no app. (Base Legal: Execução de contrato/consentimento) |
 | **Dados de Dispositivo** (ID do dispositivo, Modelo, SO) | Para garantir a segurança, prevenir fraudes e melhorar a compatibilidade e desempenho do app. (Base Legal: Interesse legítimo/Execução de contrato) |
 | **Dados de Acompanhamento** (Candidatos ou partidos favoritados) | Para fornecer o serviço principal de monitoramento e envio de notificações personalizadas. (Base Legal: Execução de contrato) |
 
