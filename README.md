@@ -19,6 +19,10 @@ Nosso objetivo é empoderar o cidadão, fornecendo acesso fácil a:
 * **Plataforma:** Android Nativo
 * **Backend / Dados:** Firebase / API
 
+## 🌐 Redes Sociais
+
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)]([https://youtube.com/seu-canal](https://www.youtube.com/@Candidato360))
+
 ## 🤝 Contribuição
 Se você deseja contribuir, por favor, leia o nosso arquivo `CONTRIBUTING.md`.
 
